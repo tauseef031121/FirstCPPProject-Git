@@ -10,5 +10,7 @@ for(int i=0; i<10; i++){
     cout<<"the i value is "<<i<<endl;
 }
 
+return 0;
+
 
 }

@@ -16,4 +16,6 @@ double d;
 
 cout<<"size of double  "<< sizeof(d)<<endl;
 
+return 0;
+
 }
